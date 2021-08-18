@@ -10,7 +10,7 @@ export function  calcularMarca(marca){
     let incremento;
 
     switch (marca) {
-        case 'europeo':
+        case 'git':
             incremento = 1.3;
             break;
         case 'americano':
