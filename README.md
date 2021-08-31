@@ -17,4 +17,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 This is simple a Car Ensurace Quote React App,
 user has to coose a brand, year and which kind of plan prefers basic or complete.
 
-![Alt text](/public/appPreview.png?raw=true "APP Preview")
+
